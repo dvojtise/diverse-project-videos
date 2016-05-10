@@ -2211,8 +2211,8 @@
        id="linearGradient17504"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(-0.88197095,0,0,1.0194048,3811.7657,-1428.2477)"
-       x1="2142.4175"
-       y1="1871.4855"
+       x1="2210.042"
+       y1="1870.6096"
        x2="2327.1912"
        y2="1871.4855" />
     <linearGradient
@@ -2275,9 +2275,9 @@
      showgrid="false"
      inkscape:current-layer="layer4"
      inkscape:document-units="px"
-     inkscape:cy="2644.3846"
-     inkscape:cx="1443.6201"
-     inkscape:zoom="0.98994952"
+     inkscape:cy="2481.031"
+     inkscape:cx="1832.0806"
+     inkscape:zoom="5.6000001"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -13264,7 +13264,7 @@
          id="tspan17097-9-6" /></text>
     <path
        style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient17504);stroke-width:2.84460354;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL-6-8)"
-       d="m 1759.2935,457.57077 c 104.044,4.369 111.7989,32.9309 111.7989,32.9309"
+       d="m 1759.2935,457.57077 c 51.0083,-0.98814 91.4418,31.14519 91.4418,31.14519"
        id="path13358-40-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
